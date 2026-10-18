@@ -1,0 +1,3 @@
+C:/Users/franc/Desktop/Università/Tecniche di programmazione/Lab 01/Es5/cmake-build-debug/CMakeFiles/Es5.dir
+C:/Users/franc/Desktop/Università/Tecniche di programmazione/Lab 01/Es5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/franc/Desktop/Università/Tecniche di programmazione/Lab 01/Es5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

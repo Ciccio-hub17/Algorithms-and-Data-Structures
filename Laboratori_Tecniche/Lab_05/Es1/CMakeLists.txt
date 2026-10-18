@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.30)
+project(Es1 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(Es1 main.c)
+
+#file (COPY  ${CMAKE_CURRENT_SOURCE_DIR}/mat.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR})

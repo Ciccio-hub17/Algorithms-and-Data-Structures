@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Es6",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Es6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Es6-Debug-b968c387e2c2352c0f0e.json",
+					"name" : "Es6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/franc/Desktop/Universit\u00e0/Secondo Semestre/Tecniche di programmazione/Laboratori/Lab 01/Es6/cmake-build-debug",
+		"source" : "C:/Users/franc/Desktop/Universit\u00e0/Secondo Semestre/Tecniche di programmazione/Laboratori/Lab 01/Es6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

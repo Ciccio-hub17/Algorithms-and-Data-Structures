@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuickFind",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickFind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickFind-Debug-3243772f7a0d1721c422.json",
+					"name" : "QuickFind",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/franc/Desktop/Uni/Secondo_Semestre/Tecniche_di_programmazione/Laboratori/Prova_Algoritmi_quick/QuickFind/cmake-build-debug",
+		"source" : "C:/Users/franc/Desktop/Uni/Secondo_Semestre/Tecniche_di_programmazione/Laboratori/Prova_Algoritmi_quick/QuickFind"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
